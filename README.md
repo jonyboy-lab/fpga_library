@@ -1,1 +1,1 @@
-# exo_sampler
+# exo_projects
